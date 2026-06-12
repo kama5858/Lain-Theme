@@ -9,13 +9,6 @@ While designed primarily with the **XFCE Desktop Environment** in mind, this con
 
 ---
 
-## 📸 Preview
-*(Buraya Reddit videosunun veya ekran görüntüsünün linkini ekleyebilirsin)*
-
-## 🛠️ Components & Tools Used
-- **System Monitor:** Conky
-- **ASCII Art:** Custom Braille/Unifont character portrait of Lain
-- **Theme Color Palette:** Dark, Cyberpunk, Purple/Magenta undertones
 
 ## 📂 Repository Structure
 - `lain_wid-eng.conf`: The main configuration file for the custom system monitor panel on the left.
